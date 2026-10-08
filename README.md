@@ -228,13 +228,4 @@ seaborn
 9. What are the limitations of survey-based data?
 10. How could the model be improved in future research?
 
-## Disclaimer
 
-This repository is a student learning project. The application and its predictions are for educational demonstration only.
-
-## Author
-
-**Student names:** Choki Wangmo, Kinley Zangmo, Karma Wangdi, Thinley Wangmo  
-**Institution:** Add your institution  
-**Course:** BIA405  
-**Year:** 2026
