@@ -6,7 +6,7 @@ This student project demonstrates a complete machine-learning workflow using Pyt
 
 > **Important:** This project uses a public Kaggle survey dataset. Predictions describe patterns in that dataset only. They are not guarantees about any real airline or passenger and must not be used to make decisions about individuals.
 
-**Team:** Choki Wangmo · Kinley Zangmo · Karma Wangdi · Thinley Wangmo (BIA405 Mini-Project)
+
 
 ## Project Objective
 
